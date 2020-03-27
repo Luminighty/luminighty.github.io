@@ -58,25 +58,25 @@ GameObject.init(new Player());
 [Back to Sections]
 
 <!-- Files -->
-[Quick Start]: Tutorial
-[Inputs]: Input
+[Quick Start]: /Tutorial
+[Inputs]: /Input
 
 <!-- Classes -->
-[GameObject]: class/GameObject
-[Component]: class/Component
-[Animator]: class/Animator
-[Sprite]: class/Sprite
-[Sound]: class/Sound
-[Resource]: class/Resource
+[GameObject]: /class/GameObject
+[Component]: /class/Component
+[Animator]: /class/Animator
+[Sprite]: /class/Sprite
+[Sound]: /class/Sound
+[Resource]: /class/Resource
 
 <!-- Structs -->
-[Structs]: structs/Structs
-[Vector2]: structs/Vector2
-[Rect]: structs/Rect
-[Sprite Labels]: structs/SpriteLabel
+[Structs]: /structs/Structs
+[Vector2]: /structs/Vector2
+[Rect]: /structs/Rect
+[Sprite Labels]: /structs/SpriteLabel
 
 <!-- Misc -->
-[Back to Sections]: Home
+[Back to Sections]: /Home
 
 <!-- External Links -->
 [Boolean]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
